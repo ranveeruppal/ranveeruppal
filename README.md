@@ -1,7 +1,8 @@
 # Hello, I'm Ranveer
 <a href="https://www.linkedin.com/in/ranveeruppal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a Master's degree in Cybersecurity and Computer Science, with two years of focused coursework in both fields. I am passionate about learning new technologies, solving complex security challenges, and developing creative solutions that help protect systems in a landscape where the threat actors are ever-evolving.
+
 
 ## Objective
 
