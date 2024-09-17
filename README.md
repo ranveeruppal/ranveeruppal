@@ -6,7 +6,7 @@ I am a recent graduate with a Master's degree in Cybersecurity and Computer Scie
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a recent graduate with a Master's degree in Cybersecurity and Computer Science, I am passionate about advancing my career in cybersecurity. I am enthusiastic about roles that allow me to tackle complex security challenges and develop innovative solutions. Whether in a Security Analyst position, where I can engage in incident response and analytical problem-solving, or as a Security Engineer, where I can design and implement robust security architectures, I am eager to contribute to enhancing organizational security. 
 
 ## Skills
 
