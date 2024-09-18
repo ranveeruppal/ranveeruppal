@@ -15,9 +15,9 @@ As a recent graduate with a Master's degree in Cybersecurity and Computer Scienc
 | Network Security Architecture in Cloud Environments | <a href="https://github.com/ranveeruppal/Azure-BruteForce-Mitigation">Cloud SIEM Lab</a>|
 | Next-Gen Firewall Policy and Traffic Control Implementation | <a href="https://github.com/ranveeruppal/Azure-BruteForce-Mitigation">Cloud SIEM Lab</a>|
 | Cloud Security Monitoring and Alerting with SIEM Tools | <a href="https://github.com/ranveeruppal/Azure-BruteForce-Mitigation">Cloud SIEM Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
+| API Integration for Automated Workflows   | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
+| SOAR Automation with Shuffle and The Hive                 | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Detection | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
 
 ## Tools
 
