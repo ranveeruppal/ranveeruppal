@@ -13,7 +13,7 @@ As a recent graduate with a Master's degree in Cybersecurity and Computer Scienc
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Security Architecture in Cloud Environments | <a href="https://github.com/ranveeruppal/Azure-BruteForce-Mitigation">Cloud SIEM Lab</a>|
-| Firewall Policy and Traffic Control Implementation | <a href="https://github.com/ranveeruppal/Azure-BruteForce-Mitigation">Cloud SIEM Lab</a>|
+| Next-Gen Firewall Policy and Traffic Control Implementation | <a href="https://github.com/ranveeruppal/Azure-BruteForce-Mitigation">Cloud SIEM Lab</a>|
 | Cloud Security Monitoring and Alerting with SIEM Tools | <a href="https://github.com/ranveeruppal/Azure-BruteForce-Mitigation">Cloud SIEM Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
