@@ -40,5 +40,5 @@ As a recent graduate with a Master's degree in Cybersecurity and Computer Scienc
 </div>
 
 ## Projects
-- Detection Lab
+- Cloud Brute Force Mitigation Project
 - SOC Automation Project
