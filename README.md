@@ -39,6 +39,11 @@ As a recent graduate with a Master's degree in Cybersecurity and Computer Scienc
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Coding
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
 ## Projects
 - Cloud Brute Force Mitigation Project
 - SOC Automation Project
