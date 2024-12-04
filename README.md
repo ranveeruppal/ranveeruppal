@@ -18,6 +18,7 @@ As a recent graduate with a Master's degree in Cybersecurity and Computer Scienc
 | API Integration for Automated Workflows   | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
 | SOAR Automation with Shuffle and The Hive                 | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Detection | <a href="https://github.com/ranveeruppal/SOC-Automation-Project">SOC Automation Lab</a>|
+| Scripting and Automation for Malware Detection | <a href="https://github.com/ranveeruppal/Python_Malware_Detection">Python Automation Script for Malware Detection</a>|
 
 ## Tools
 
