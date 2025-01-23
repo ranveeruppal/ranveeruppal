@@ -1,12 +1,12 @@
 # Hello, I'm Ranveer
 <a href="https://www.linkedin.com/in/ranveeruppal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a Master's degree in Cybersecurity and Computer Science, with two years of focused coursework in both fields. I am passionate about learning new technologies, solving complex security challenges, and developing creative solutions that help protect systems in a landscape with ever-evolving threat actors.
+I am a recent graduate with a Master's degree in Cybersecurity and Computer Science, with two years of focused coursework in both fields. I am passionate about learning new technologies, solving complex security challenges, and developing creative solutions that help protect systems in a landscape with ever-evolving threat actors. This is where I post all my interesting projects!
 
-
+<!-- 
 ## Objective
 
-As a recent graduate with a Master's degree in Cybersecurity and Computer Science, I am passionate about advancing my career in cybersecurity. I am enthusiastic about roles that allow me to tackle complex security challenges and develop innovative solutions. Whether in a Security Analyst position, where I can engage in incident response and analytical problem-solving, or as a Security Engineer, where I can design and implement robust security architectures. 
+As a recent graduate with a Master's degree in Cybersecurity and Computer Science, I am passionate about advancing my career in cybersecurity. I am enthusiastic about roles that allow me to tackle complex security challenges and develop innovative solutions. Whether in a Security Analyst position, where I can engage in incident response and analytical problem-solving, or as a Security Engineer, where I can design and implement robust security architectures. -->
 
 ## Skills
 
